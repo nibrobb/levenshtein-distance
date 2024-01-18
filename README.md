@@ -5,6 +5,6 @@ The [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) i
 ## Quick start
 
 ```console
-$ make
-$ ./levenshtein
+make
+./levenshtein
 ```
